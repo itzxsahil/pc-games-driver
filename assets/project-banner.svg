@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="100%" height="270">
+  <defs>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0E14" />
+      <stop offset="100%" stop-color="#161B22" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="270" rx="14" fill="url(#termBg)" stroke="#30363D" stroke-width="1.5"/>
+  <rect width="900" height="38" rx="14" fill="#1C2128"/>
+  <rect y="24" width="900" height="14" fill="#1C2128"/>
+  <circle cx="22" cy="19" r="6" fill="#FF5F56"/>
+  <circle cx="40" cy="19" r="6" fill="#FFBD2E"/>
+  <circle cx="58" cy="19" r="6" fill="#27C93F"/>
+  <text x="450" y="24" fill="#8B949E" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🎮 PC Games Driver & Dependencies Toolkit • Live Preview</text>
+  <rect x="750" y="10" width="130" height="18" rx="9" fill="#21262D" stroke="#00FF7F" stroke-width="1"/>
+  <text x="815" y="22" fill="#00FF7F" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="bold" text-anchor="middle">GAMING TOOLKIT</text>
+  <g transform="translate(15, 10)">
+    <text x="25" y="70" fill="#00FF7F" font-family="'Fira Code', monospace" font-size="13">> install_dependencies.bat</text>
+<text x="25" y="96" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[SYSTEM] Checking required gaming runtimes on Windows...</text>
+<text x="25" y="122" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[INSTALL] Installing Visual C++ Redistributable AIO (x86/x64)... Done!</text>
+<text x="25" y="148" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[INSTALL] Updating DirectX End-User Runtimes... Done!</text>
+<text x="25" y="174" fill="#C9D1D9" font-family="'Fira Code', monospace" font-size="13">[INSTALL] Installing OpenAL Audio Drivers & XNA Framework 4.0... Done!</text>
+<text x="25" y="200" fill="#3FB950" font-family="'Fira Code', monospace" font-size="13">[SUCCESS] All gaming dependencies installed. Missing DLL errors resolved!</text>
+
+  </g>
+</svg>
